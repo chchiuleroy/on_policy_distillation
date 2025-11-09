@@ -1,6 +1,6 @@
-# on_policy_distillation
-read and summarize https://thinkingmachines.ai/blog/on-policy-distillation/
-# -------------------------------------------- #
+# On policy distillation Suammary
+
+Read and summarize https://thinkingmachines.ai/blog/on-policy-distillation/
 
 On-Policy Distillation 深度解析：結合 RL 與蒸餾的最佳實踐
 目錄
